@@ -24,7 +24,7 @@ First time out: just show up. Dawn Patrol is usually the easiest place to start.
 - `mailchimp-discord-bridge` - A Cloudflare Worker that polls the club newsletter RSS feed and posts new items into Discord.
 - `.github` - Organization-level GitHub profile content, including this README.
 
-The [website](https://runexcelsior.org) is an Astro site deployed on Cloudflare Pages, covering schedule, club records, GP standings, FAQ, membership info, and SEO discovery pages. Source is in a private repo.
+The [website](https://runexcelsior.org) source is in a private repo.
 
 ## Join The Club
 
