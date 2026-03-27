@@ -21,6 +21,7 @@ First time out: just show up. Dawn Patrol is usually the easiest place to start.
 
 ## Repositories
 
+- `uptimeflare` - Uptime monitoring for club services, powered by UptimeFlare on Cloudflare Workers.
 - `mailchimp-discord-bridge` - A Cloudflare Worker that polls the club newsletter RSS feed and posts new items into Discord.
 - `.github` - Organization-level GitHub profile content, including this README.
 
