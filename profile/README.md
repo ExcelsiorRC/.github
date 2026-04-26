@@ -23,6 +23,7 @@ First time out: just show up. Dawn Patrol is usually the easiest place to start.
 
 - `uptimeflare` - Uptime monitoring for club services, powered by UptimeFlare on Cloudflare Workers.
 - `mailchimp-discord-bridge` - A Cloudflare Worker that polls the club newsletter RSS feed and posts new items into Discord.
+- `strava-event-discord-bot` - A Cloudflare Worker that polls the Strava API for club group events and posts announcements and 24-hour reminders to Discord.
 - `.github` - Organization-level GitHub profile content, including this README.
 
 The [website](https://runexcelsior.org) source is in a private repo.
